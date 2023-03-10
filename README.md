@@ -1,4 +1,8 @@
 ### Hi there 👋
+I'm Melo , i'm a junior full-stack developer!
+
+
+
 
 <!--
 **MeloLM/MeloLM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
